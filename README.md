@@ -77,6 +77,7 @@ Toda as solicitações também podem ser realizadas diretamente pelo navegador e
 
 ## Estrutura de arquivos/rotas no servidor
 
+```bash
 ├── 400
 │   └── index.html
 ├── 404
@@ -89,6 +90,7 @@ Toda as solicitações também podem ser realizadas diretamente pelo navegador e
 ├── index.html
 └── outra-rota
     └── index.html
+```
 
 ### Observações
 
